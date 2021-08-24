@@ -1,4 +1,7 @@
-# vue_vuex
+# Vue Counter with Vuex
+
+## Project Screenshot
+![screenshot](/screenshot/1.png)
 
 ## Project setup
 ```
